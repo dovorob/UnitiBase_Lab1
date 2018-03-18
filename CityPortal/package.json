@@ -1,0 +1,15 @@
+{
+  "name": "cityportal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@unitybase/adminui-pub": "^4.2.51",
+    "@unitybase/ubq": "^4.2.24"
+  }
+}
